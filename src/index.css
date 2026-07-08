@@ -9,7 +9,7 @@
   --color-text-secondary: #6B7280;
   --color-background-light: #F8F9FA;
   --color-background-dark: #0F1729;
-  
+  --color-input-err-text: #dc3545;
   /* Typography */
   --font-heading: 'Playfair Display', serif;
   --font-body: 'Inter', sans-serif;

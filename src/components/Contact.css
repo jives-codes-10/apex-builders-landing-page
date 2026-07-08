@@ -66,6 +66,13 @@
   min-height: 120px;
 }
 
+.input-err {
+  color: var(--color-input-err-text);
+  font-size: 13px;
+  padding: 0px 2px;
+  margin-top: -5px;
+}
+
 .submit-btn {
   width: 100%;
   padding: 16px;
